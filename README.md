@@ -30,11 +30,11 @@ Amaç, sade ama geliştirilebilir bir oyun altyapısı sunmaktır.
 
 1. Bu repoyu indir veya klonla:
    ```bash
-   git clone https://github.com/kullaniciadi/batuhan-craft.git
+   git clone https://github.com/batuhan-yazilim/batuhan-craft.git
    
 ---
 
-✨ Özellikler
+# #  ✨ Özellikler
 
 🧱 Craft / blok temalı oynanış
 
